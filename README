@@ -1,0 +1,12 @@
+README file
+
+Step 1:
+Create Appium script using Android Studio and Appium
+
+Step 2:
+Create AWS account and install Jenkins and Docker and mobile Emulator on cloud
+
+Step 3:
+Execute the automated CI/CD script on cloud
+
+Screenshots are attached in folder Submission_Screenshots
